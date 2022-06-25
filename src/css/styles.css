@@ -20,28 +20,32 @@ body {
 .search-form {
   display: flex;
   align-items: center;
+  justify-content: center;
+  background-color: rgb(148, 142, 240);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  
   margin-bottom: 20px;
 }
 .input-search {
   font: inherit;
   padding: 8px;
+  border-radius: 4px;
   max-width: 320px;
   margin-right: 30px;
 }
 
 button {
-  padding-left: 15px;
-  padding-right: 15px;
   padding-top: 11px;
   padding-bottom: 11px;
   width: 150px;
 
   font-size: 16px;
   font-weight: 600;
-  color: rgb(71, 114, 101);
+  color: rgb(89, 82, 129);
 
-  background-color: rgb(136, 199, 178);
-  border: 2px solid rgb(71, 114, 101);
+  background-color: rgb(211, 177, 239);
+  border: 2px solid rgb(89, 82, 129);
   border-radius: 4px;
 }
 button:active {
