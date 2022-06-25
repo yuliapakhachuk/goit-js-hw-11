@@ -51,7 +51,7 @@
 29D:\js\goit-js-hw-11\.parcelrc133006256381750399 0
 48D:\js\goit-js-hw-11\node_modules\combined-stream133006283699174811 1
 95D:\js\goit-js-hw-11\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo133006271656114646 1
-24D:\js\goit-js-hw-11\dist133006350816528861 1
+24D:\js\goit-js-hw-11\dist133006362795549211 1
 41D:\js\goit-js-hw-11\node_modules\get-port133006271634898542 1
 67D:\js\goit-js-hw-11\node_modules\@parcel\logger\test\Logger.test.js133006271646215014 0
 94D:\js\goit-js-hw-11\node_modules\@parcel\package-manager\test\fixtures\packages\peers\index.js133006271652273947 0
@@ -62,7 +62,7 @@
 47D:\js\goit-js-hw-11\node_modules\fastq\bench.js133006271632326933 0
 54D:\js\goit-js-hw-11\node_modules\asynckit\lib\defer.js133006283699536151 0
 31D:\js\goit-js-hw-11\.prettierrc133006256382519665 0
-32D:\js\goit-js-hw-11\src\index.js133006343260651349 0
+32D:\js\goit-js-hw-11\src\index.js133006359834011876 0
 76D:\js\goit-js-hw-11\node_modules\caniuse-lite\data\features\text-emphasis.js133006271679157825 0
 78D:\js\goit-js-hw-11\node_modules\@parcel\runtime-js\lib\helpers\cacheLoader.js133006271646185093 0
 65D:\js\goit-js-hw-11\node_modules\type-fest\source\promisable.d.ts133006271650811909 0
@@ -111,9 +111,9 @@
 54D:\js\goit-js-hw-11\node_modules\xxhash-wasm\README.md133006271640117372 0
 82D:\js\goit-js-hw-11\node_modules\caniuse-lite\data\features\input-email-tel-url.js133006271671998144 0
 83D:\js\goit-js-hw-11\node_modules\caniuse-lite\data\features\css-overflow-overlay.js133006271666719186 0
-46D:\js\goit-js-hw-11\dist\index.975ef6c8.js.map133006342925669171 0
+46D:\js\goit-js-hw-11\dist\index.975ef6c8.js.map133006359836440674 0
 57D:\js\goit-js-hw-11\node_modules\domhandler\lib\node.d.ts133006271639798286 0
-38D:\js\goit-js-hw-11\src\css\styles.css133006353362034808 0
+38D:\js\goit-js-hw-11\src\css\styles.css133006362793012295 0
 49D:\js\goit-js-hw-11\node_modules\type-fest\source133006271654247654 1
 58D:\js\goit-js-hw-11\node_modules\cosmiconfig\dist\index.js133006271638380634 0
 49D:\js\goit-js-hw-11\node_modules\is-json\index.js133006271635102650 0
@@ -155,7 +155,7 @@
 81D:\js\goit-js-hw-11\node_modules\lmdb\node_modules\node-addon-api\tools\README.md133006271648872227 0
 53D:\js\goit-js-hw-11\node_modules\mime-db\package.json133006283699366613 0
 62D:\js\goit-js-hw-11\node_modules\sass\types\value\boolean.d.ts133006271660037447 0
-34D:\js\goit-js-hw-11\src\index.html133006307910776816 0
+34D:\js\goit-js-hw-11\src\index.html133006358728724116 0
 26D:\js\goit-js-hw-11\src\js133006312991166865 1
 50D:\js\goit-js-hw-11\node_modules\yaml\types\set.js133006271654267596 0
 78D:\js\goit-js-hw-11\node_modules\posthtml-include\node_modules\posthtml-parser133006271636333095 1
@@ -252,7 +252,7 @@
 71D:\js\goit-js-hw-11\node_modules\cosmiconfig\dist\ExplorerBase.d.ts.map133006271646044315 0
 65D:\js\goit-js-hw-11\node_modules\css-tree\lib\syntax\node\Rule.js133006271662306967 0
 66D:\js\goit-js-hw-11\node_modules\axios\lib\cancel\CanceledError.js133006283699665800 0
-47D:\js\goit-js-hw-11\dist\index.77a9bc14.css.map133006350816518880 0
+47D:\js\goit-js-hw-11\dist\index.77a9bc14.css.map133006362795539239 0
 79D:\js\goit-js-hw-11\node_modules\@parcel\core\test\fixtures\application-targets133006271666367912 1
 55D:\js\goit-js-hw-11\node_modules\picomatch\lib\parse.js133006271634898542 0
 41D:\js\goit-js-hw-11\node_modules\anymatch133006271634918490 1
@@ -2984,7 +2984,7 @@
 63D:\js\goit-js-hw-11\node_modules\css-what\lib\es\types.d.ts.map133006271647550783 0
 66D:\js\goit-js-hw-11\node_modules\@swc\helpers\src\_await_value.mjs133006271660910318 0
 69D:\js\goit-js-hw-11\node_modules\css-what\lib\commonjs\index.d.ts.map133006271642665721 0
-43D:\js\goit-js-hw-11\dist\index.77a9bc14.css133006350816439097 0
+43D:\js\goit-js-hw-11\dist\index.77a9bc14.css133006362795499347 0
 69D:\js\goit-js-hw-11\node_modules\css-what\lib\commonjs\types.d.ts.map133006271646949709 0
 54D:\js\goit-js-hw-11\node_modules\css-tree\CHANGELOG.md133006271664550441 0
 46D:\js\goit-js-hw-11\node_modules\css-tree\data133006271664460683 1
@@ -4886,8 +4886,8 @@
 48D:\js\goit-js-hw-11\node_modules\.bin\semver.ps1133006271691075507 0
 42D:\js\goit-js-hw-11\node_modules\.bin\svgo133006271691075507 0
 44D:\js\goit-js-hw-11\node_modules\.bin\terser133006271691075507 0
-42D:\js\goit-js-hw-11\dist\index.975ef6c8.js133006342925629270 0
-35D:\js\goit-js-hw-11\dist\index.html133006307991580818 0
+42D:\js\goit-js-hw-11\dist\index.975ef6c8.js133006359836380847 0
+35D:\js\goit-js-hw-11\dist\index.html133006358730461129 0
 52D:\js\goit-js-hw-11\assets\actions-config-step-1.png133006256385720843 0
 43D:\js\goit-js-hw-11\assets\how-it-works.png133006256386397526 0
 44D:\js\goit-js-hw-11\assets\repo-settings.png133006256386780367 0
